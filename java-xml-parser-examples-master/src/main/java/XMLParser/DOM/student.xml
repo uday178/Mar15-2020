@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<college>
+	<student rollNo="201">
+		<studentName>John</studentName>
+		<age>12</age>
+	</student>
+	<student rollNo="202">
+		<studentName>Steve</studentName>
+	</student>
+</college>
